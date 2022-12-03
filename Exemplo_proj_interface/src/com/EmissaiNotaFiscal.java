@@ -2,7 +2,7 @@ package com;
 
 import message.MessageEmail;
 
-public class EmissaiNotaFiscal {
+public class EmissaoNotaFiscal {
 
 	public void emitir(Cliente cliente, Produto produto) {
 
